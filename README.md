@@ -32,9 +32,9 @@ Now at SKK GSB (Seoul), I'm combining that operational foundation with an MBA sp
 | Project | Business Question | Key Finding | Tools |
 |---------|-------------------|-------------|-------|
 | [**Telco Customer Churn Analysis**](https://github.com/payaljarviya/customer-churn-analysis) | Who is leaving and why — and what's the revenue impact? | Month-to-month customers churn at **15x** the rate of 2-year customers. Model (AUC 0.84) identifies **$67K retention opportunity** in test set alone. | Python · Scikit-learn · Pandas · Seaborn |
-| **Supply Chain Analytics Dashboard** *(coming soon)* | Where are the biggest cost leakages and defect rate drivers? | — | Python · Plotly · Pandas |
-| **APAC E-Commerce Customer Segmentation** *(coming soon)* | Which customer segments drive disproportionate revenue? | — | Python · RFM Analysis |
-| **Financial Reporting Dashboard** *(coming soon)* | How does APAC public company performance trend across segments? | — | Power BI · Python |
+| [**Supply Chain Analytics**](https://github.com/payaljarviya/supply-chain-analytics) | Where are the biggest cost leakages and defect rate drivers? | Defect rates concentrated in 1-2 product categories — targeted intervention could cut company-wide defects by ~30% | Python · Pandas · Matplotlib · Seaborn |
+| [**APAC E-Commerce Customer Segmentation**](https://github.com/payaljarviya/apac-customer-segmentation) | Which customer segments drive disproportionate revenue? | Champions (~8% of customers) generate ~42% of revenue; At-Risk segment is the highest-ROI intervention target | Python · RFM Analysis · Pandas |
+| [**GenAI Business Use Case Builder**](https://github.com/payaljarviya/genai-use-case-builder) | Where does GenAI add the most value for a given company and department? | Structured consulting brief tool — input company + dept, output prioritized use cases with ROI signals and implementation complexity | Python · OpenAI API · Gemini API |
 
 ---
 
@@ -42,7 +42,7 @@ Now at SKK GSB (Seoul), I'm combining that operational foundation with an MBA sp
 
 | Case Study | Framing | Deliverable |
 |-----------|---------|-------------|
-| **ERP Implementation Risk Analysis — Revlon Oracle Failure** *(coming soon)* | Root cause analysis of $130M enterprise ERP collapse — through the lens of 4 years inside live ERP environments | Consulting brief + SCQA framework |
+| [**ERP Implementation Risk Analysis — Revlon SAP Failure**](https://github.com/payaljarviya/erp-implementation-risk-analysis) | Root cause analysis of $130M enterprise ERP collapse — through the lens of 4 years inside live ERP environments | Consulting brief + SCQA framework |
 | **APAC Super App Competitive Strategy: Grab vs Gojek vs Sea** *(coming soon)* | Who wins Southeast Asia by 2028 and why | Competitive analysis + positioning matrix |
 
 ---
@@ -52,9 +52,11 @@ Now at SKK GSB (Seoul), I'm combining that operational foundation with an MBA sp
 **Traffic Signal Surveillance System to Overcome Traffic Signal Violation**
 *International Journal of Scientific Research in Engineering & Management (IJSREM), Vol. 04, Issue 03, 2020*
 
-Led a 5-member team to prototype an automated traffic violation detection system. License plates decoded in **<50ms** using Raspberry Pi + Google Cloud Vision API (ANPR), with automatic evidence submission to government transport authority via MySQL.
+Led a 5-member team to design and prototype an automated traffic violation detection system. System decoded license plates in **<50ms** using Raspberry Pi + Google Cloud Vision API (ANPR), with automatic evidence submission to government transport authority via MySQL.
 
-📄 [Read the paper](https://payaljarviya.github.io/Traffic_Signal_Surveillance_System.pdf) &nbsp;|&nbsp; `Python` `Raspberry Pi` `Google Cloud Vision API` `ANPR` `MySQL`
+📄 [Read the paper](https://payaljarviya.github.io/Traffic_Signal_Surveillance_System.pdf)
+
+`Python` `Raspberry Pi` `Google Cloud Vision API` `ANPR/ALPR` `MySQL` `Image Processing`
 
 ---
 
