@@ -21,8 +21,6 @@ Before the MBA, I spent four years at NTT DATA inside Fortune 500 ERP systems �
 
 At SKK GSB (Seoul) now, specializing in AI & Business Analytics and Marketing Analytics. The combination I'm building toward: knowing how a business actually runs at ground level, and knowing how to extract signal from data that most teams don't analyze.
 
-📍 Open to: UAE · Singapore · South Korea &nbsp;|&nbsp; Available: Internships mid-2026 · Full-time Feb 2027
-
 ---
 
 ## Analytics Projects
