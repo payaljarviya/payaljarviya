@@ -4,12 +4,28 @@
 
 **Strategy · Analytics · Consulting**
 
-MBA Candidate @ SKK GSB Seoul &nbsp;|&nbsp; 4 Yrs Enterprise IT Consulting @NTT DATA &nbsp;|&nbsp; AI & Business Analytics
+MBA Candidate @ SKK GSB Seoul  |  4 Yrs Enterprise IT Consulting @NTT DATA  |  AI & Business Analytics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/payal-jarviya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a3a5c?style=flat&logo=githubpages&logoColor=white)](https://payaljarviya.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:payaljarviya123@gmail.com)
 [![Location](https://img.shields.io/badge/Seoul%2C%20South%20Korea-gray?style=flat&logo=googlemaps&logoColor=white)](https://github.com/payaljarviya)
+
+![Profile Views](https://komarev.com/ghpvc/?username=payaljarviya&color=7c3aed&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=payaljarviya&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=a78bfa" height="165" alt="GitHub Stats"/>
+   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payaljarviya&layout=compact&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" height="165" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=payaljarviya&theme=dark&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=7c3aed" alt="GitHub Streak"/>
 
 </div>
 
@@ -103,7 +119,7 @@ Led a 5-member team to design and prototype an automated traffic violation detec
 
 ## Languages
 
-English (Professional) &nbsp;·&nbsp; Hindi (Native) &nbsp;·&nbsp; Marathi (Native) &nbsp;·&nbsp; Korean (Beginner — TOPIK II candidate)
+English (Professional)  ·  Hindi (Native)  ·  Marathi (Native)  ·  Korean (Beginner — TOPIK II candidate)
 
 ---
 
